@@ -16,4 +16,4 @@
 - Python (iniciante)
 
 --- Projetos ---
-Em desenvolvimento.
+Em desenvolvimento...
